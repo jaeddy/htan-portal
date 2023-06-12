@@ -2,8 +2,6 @@
   {
     "Atlas Name": "HTAN DCC",
     "Grant ID": "",
-    "Tool ID": "HTA8_T0",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/22588877/, https://pubmed.ncbi.nlm.nih.gov/23550210/",
     "Perspective": "",
     "Tool Name": "cBioPortal",
@@ -21,8 +19,6 @@
   {
     "Atlas Name": "HTAN DCC",
     "Grant ID": "",
-    "Tool ID": "HTAX_T0",
-    "Parent ID": "",
     "Tool Publication": "",
     "Perspective": "",
     "Tool Name": "ISB-CGC Google BigQuery",
@@ -40,8 +36,6 @@
   {
     "Atlas Name": "HTAN DCC",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "",
     "Perspective": "",
     "Tool Name": "ISB-CGC Google BigQuery Notebooks",
@@ -59,8 +53,6 @@
   {
     "Atlas Name": "HTAN HMS",
     "Grant ID": "",
-    "Tool ID": "HTA7_T4",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/33768192/",
     "Perspective": "",
     "Tool Name": "Minerva",
@@ -78,8 +70,6 @@
   {
     "Atlas Name": "HTAN BU",
     "Grant ID": "CA233238",
-    "Tool ID": "HTA3_T1",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/35354805/",
     "Perspective": "TRUE",
     "Tool Name": "Single Cell Toolkit",
@@ -97,8 +87,6 @@
   {
     "Atlas Name": "N/A",
     "Grant ID": "",
-    "Tool ID": "HTAX_T1",
-    "Parent ID": "",
     "Tool Publication": "",
     "Perspective": "",
     "Tool Name": "CellXGene",
@@ -116,8 +104,6 @@
   {
     "Atlas Name": "HTAN HMS",
     "Grant ID": "CA233262",
-    "Tool ID": "HTA7_T2",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/34824477/",
     "Perspective": "TRUE",
     "Tool Name": "MCMICRO: Multiple-choice microscopy pipeline",
@@ -135,8 +121,6 @@
   {
     "Atlas Name": "HTAN MSK",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://zenodo.org/record/5512969",
     "Perspective": "TRUE",
     "Tool Name": "Mask R-CNN",
@@ -154,8 +138,6 @@
   {
     "Atlas Name": "N/A",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "",
     "Perspective": "TRUE",
     "Tool Name": "cancer.usegalaxy.org",
@@ -173,8 +155,6 @@
   {
     "Atlas Name": "HTAN CHOP",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/32312293/",
     "Perspective": "TRUE",
     "Tool Name": "scATAC-pro",
@@ -192,8 +172,6 @@
   {
     "Atlas Name": "HTAN Stanford",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/33853780/",
     "Perspective": "TRUE",
     "Tool Name": "CytoTalk",
@@ -211,8 +189,6 @@
   {
     "Atlas Name": "HTAN CHOP",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "",
     "Perspective": "TRUE",
     "Tool Name": "SINBAD",
@@ -230,8 +206,6 @@
   {
     "Atlas Name": "HTAN CHOP",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/33853780/",
     "Perspective": "TRUE",
     "Tool Name": "SCRABBLE",
@@ -249,8 +223,6 @@
   {
     "Atlas Name": "HTAN CHOP",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/33219054/",
     "Perspective": "TRUE",
     "Tool Name": "MAPLE",
@@ -268,8 +240,6 @@
   {
     "Atlas Name": "HTAN Stanford",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "",
     "Perspective": "TRUE",
     "Tool Name": "BCTMA",
@@ -287,8 +257,6 @@
   {
     "Atlas Name": "HTAN OHSU",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/35322205/",
     "Perspective": "TRUE",
     "Tool Name": "ME-VAE",
@@ -306,8 +274,6 @@
   {
     "Atlas Name": "HTAN OHSU",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/33060677/",
     "Perspective": "TRUE",
     "Tool Name": "SHIFT",
@@ -325,8 +291,6 @@
   {
     "Atlas Name": "HTAN HMS",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/35972352/",
     "Perspective": "TRUE",
     "Tool Name": "ASHLAR",
@@ -344,8 +308,6 @@
   {
     "Atlas Name": "HTAN HMS",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/35404441/",
     "Perspective": "TRUE",
     "Tool Name": "SCIMAP",
@@ -363,8 +325,6 @@
   {
     "Atlas Name": "HTAN Vanderbilt",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/33837131/",
     "Perspective": "TRUE",
     "Tool Name": "dropkick",
@@ -382,8 +342,6 @@
   {
     "Atlas Name": "HTAN Vanderbilt",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/31373345/",
     "Perspective": "TRUE",
     "Tool Name": "scRNABatchQC",
@@ -401,8 +359,6 @@
   {
     "Atlas Name": "N/A",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/32341560/",
     "Perspective": "TRUE",
     "Tool Name": "Scumi",
@@ -420,8 +376,6 @@
   {
     "Atlas Name": "N/A",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/32405060/",
     "Perspective": "TRUE",
     "Tool Name": "HTAPP toolbox",
@@ -439,8 +393,6 @@
   {
     "Atlas Name": "HTAN CHOP",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/32312293/",
     "Perspective": "TRUE",
     "Tool Name": "scATAC-pro",
@@ -458,8 +410,6 @@
   {
     "Atlas Name": "HTAN Stanford",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/33633365/",
     "Perspective": "TRUE",
     "Tool Name": "ArchR",
@@ -477,8 +427,6 @@
   {
     "Atlas Name": "HTAN BU",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/35354805/",
     "Perspective": "TRUE",
     "Tool Name": "SCTK-QC",
@@ -496,8 +444,6 @@
   {
     "Atlas Name": "HTAN BU",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/32138770/",
     "Perspective": "TRUE",
     "Tool Name": "DecontX",
@@ -515,8 +461,6 @@
   {
     "Atlas Name": "HTAN Stanford",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/34295327/",
     "Perspective": "TRUE",
     "Tool Name": "RedSea",
@@ -534,8 +478,6 @@
   {
     "Atlas Name": "HTAN OHSU",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/32152447/",
     "Perspective": "TRUE",
     "Tool Name": "Restore",
@@ -553,8 +495,6 @@
   {
     "Atlas Name": "HTAN Vanderbilt",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/34983062/",
     "Perspective": "TRUE",
     "Tool Name": "mxnorm",
@@ -572,8 +512,6 @@
   {
     "Atlas Name": "HTAN OHSU",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/32122539/",
     "Perspective": "TRUE",
     "Tool Name": "CellProfiler",
@@ -591,8 +529,6 @@
   {
     "Atlas Name": "HTAN Vanderbilt",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/35084791/",
     "Perspective": "TRUE",
     "Tool Name": "MIRIAM",
@@ -610,8 +546,6 @@
   {
     "Atlas Name": "HTAN WUSTL",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/34359696/",
     "Perspective": "TRUE",
     "Tool Name": "D-R2UNet",
@@ -629,8 +563,6 @@
   {
     "Atlas Name": "HTAN OHSU",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/34485971/",
     "Perspective": "TRUE",
     "Tool Name": "grapheno",
@@ -648,8 +580,6 @@
   {
     "Atlas Name": "HTAN OHSU",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/35545666/",
     "Perspective": "TRUE",
     "Tool Name": "cycIF_Validation",
@@ -667,8 +597,6 @@
   {
     "Atlas Name": "HTAN Vanderbilt",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/32375029/",
     "Perspective": "TRUE",
     "Tool Name": "DR-Struct",
@@ -686,8 +614,6 @@
   {
     "Atlas Name": "N/A",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/31937348/",
     "Perspective": "TRUE",
     "Tool Name": "DENDRO",
@@ -705,8 +631,6 @@
   {
     "Atlas Name": "HTAN Vanderbilt",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/30445607/",
     "Perspective": "TRUE",
     "Tool Name": "pyNVR",
@@ -724,8 +648,6 @@
   {
     "Atlas Name": "HTAN CHOP",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/33853780/",
     "Perspective": "TRUE",
     "Tool Name": "CytoTalk",
@@ -743,8 +665,6 @@
   {
     "Atlas Name": "HTAN Vanderbilt",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/34648021/",
     "Perspective": "TRUE",
     "Tool Name": "scMRMA",
@@ -762,8 +682,6 @@
   {
     "Atlas Name": "HTAN CHOP",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/33219054/",
     "Perspective": "TRUE",
     "Tool Name": "Maple",
@@ -781,8 +699,6 @@
   {
     "Atlas Name": "HTAN Stanford",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/34017141/",
     "Perspective": "TRUE",
     "Tool Name": "AlleloScope",
@@ -800,8 +716,6 @@
   {
     "Atlas Name": "HTAN Vanderbilt",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/30346945/",
     "Perspective": "TRUE",
     "Tool Name": "scUniFrac",
@@ -819,8 +733,6 @@
   {
     "Atlas Name": "HTAN WUSTL",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/35603231/",
     "Perspective": "TRUE",
     "Tool Name": "Pollock",
@@ -838,8 +750,6 @@
   {
     "Atlas Name": "HTAN Vanderbilt",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/35482476/",
     "Perspective": "TRUE",
     "Tool Name": "scLR",
@@ -857,8 +767,6 @@
   {
     "Atlas Name": "HTAN BU",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/36110899/",
     "Perspective": "TRUE",
     "Tool Name": "Celda",
@@ -876,8 +784,6 @@
   {
     "Atlas Name": "HTAN Vanderbilt",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/36223499/",
     "Perspective": "TRUE",
     "Tool Name": "Spagene",
@@ -895,8 +801,6 @@
   {
     "Atlas Name": "HTAN Stanford",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/34484237/",
     "Perspective": "TRUE",
     "Tool Name": "CODEX",
@@ -914,8 +818,6 @@
   {
     "Atlas Name": "HTAN OHSU",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/33060677/",
     "Perspective": "TRUE",
     "Tool Name": "Shift",
@@ -933,8 +835,6 @@
   {
     "Atlas Name": "HTAN OHSU",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/35322205/",
     "Perspective": "TRUE",
     "Tool Name": "MA-VAE",
@@ -952,8 +852,6 @@
   {
     "Atlas Name": "HTAN HMS",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/35972352/",
     "Perspective": "TRUE",
     "Tool Name": "Ashlar",
@@ -971,8 +869,6 @@
   {
     "Atlas Name": "HTAN HMS",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/34606456/",
     "Perspective": "TRUE",
     "Tool Name": "Scope2Screen",
@@ -990,8 +886,6 @@
   {
     "Atlas Name": "N/A",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/33649333/",
     "Perspective": "TRUE",
     "Tool Name": "UNMaSk",
@@ -1009,8 +903,6 @@
   {
     "Atlas Name": "HTAN OHSU",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/34541020/",
     "Perspective": "TRUE",
     "Tool Name": "Nemo",
@@ -1028,8 +920,6 @@
   {
     "Atlas Name": "HTAN OHSU",
     "Grant ID": "",
-    "Tool ID": "",
-    "Parent ID": "",
     "Tool Publication": "https://pubmed.ncbi.nlm.nih.gov/33262400/",
     "Perspective": "TRUE",
     "Tool Name": "Vista",
